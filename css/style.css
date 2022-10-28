@@ -153,9 +153,7 @@ img {
 
 
 @media screen and (max-width: 480px){
-    .container {
-        min-width: 300px;
-    }
+
     .row {
         display: flex;
         flex-direction: column;
